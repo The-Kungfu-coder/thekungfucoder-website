@@ -29,6 +29,10 @@ html{
     background-color: #ddd;
     color: black;
  }
+@media(700px) {
+    font-size: 34px;
+}
+
 
 .contents a {
     color: green;
