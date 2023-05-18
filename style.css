@@ -18,6 +18,7 @@ html{
 .topnav {
     background: linear-gradient(45deg,rgb(189, 126, 10), black);
     overflow: hidden;
+    width: 100%;
  }
   
 /* Style the links inside the navigation bar */
