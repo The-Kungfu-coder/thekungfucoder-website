@@ -5,8 +5,14 @@ body{
 }
 @media (max-width: 426px) {
     .vid iframe{
-      width: 50%;
+      width: 100%;
       height: auto;
+    }
+}
+@media (orientation: portrait) {
+    .vid iframe{
+        width: 100%;
+        height: auto;
     }
 }
 
